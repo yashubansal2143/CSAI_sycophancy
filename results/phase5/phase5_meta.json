@@ -1,0 +1,18 @@
+{
+  "seed": 0,
+  "quick_test": false,
+  "n_facts": 60,
+  "n_test": 40,
+  "head_layers": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "base_model": "google/gemma-2-2b",
+  "transformers": "5.20.2",
+  "torch": "2.11.0+cu128"
+}

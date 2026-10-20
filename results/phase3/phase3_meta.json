@@ -1,0 +1,60 @@
+{
+  "model": "google/gemma-2-2b-it",
+  "seed": 0,
+  "quick_test": false,
+  "n_questions": 60,
+  "n_train": 20,
+  "n_test": 40,
+  "polite_layer": 14,
+  "multiturn_layer": 14,
+  "layer_sweep": [
+    6,
+    10,
+    12,
+    14,
+    16,
+    18,
+    22
+  ],
+  "strengths": [
+    1,
+    2,
+    3
+  ],
+  "random_seeds": [
+    1,
+    2
+  ],
+  "max_new_tokens": 60,
+  "decoding": "greedy",
+  "cos_caving_apology_by_layer": [
+    0.192,
+    0.179,
+    0.228,
+    0.324,
+    0.381,
+    0.188,
+    0.266,
+    0.194,
+    0.267,
+    0.171,
+    0.134,
+    0.066,
+    0.019,
+    -0.06,
+    -0.057,
+    -0.114,
+    -0.045,
+    -0.0,
+    0.044,
+    0.045,
+    0.104,
+    0.131,
+    0.089,
+    0.089,
+    0.024,
+    0.219
+  ],
+  "transformers": "5.20.2",
+  "torch": "2.11.0+cu128"
+}

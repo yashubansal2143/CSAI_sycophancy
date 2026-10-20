@@ -1,0 +1,11 @@
+{
+  "model": "google/gemma-2-2b-it",
+  "seed": 0,
+  "quick_test": false,
+  "n_questions": 60,
+  "n_conversations": 360,
+  "dtype": "float32",
+  "decoding": "greedy",
+  "transformers": "5.19.0",
+  "torch": "2.11.0+cu128"
+}

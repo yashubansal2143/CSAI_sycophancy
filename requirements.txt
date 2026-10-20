@@ -1,0 +1,12 @@
+# Model runs (Kaggle, NVIDIA T4)
+torch>=2.4
+transformers>=4.44
+accelerate
+# Analysis and figures (CPU)
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+plotly
+requests

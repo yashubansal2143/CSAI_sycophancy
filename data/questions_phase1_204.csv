@@ -1,0 +1,205 @@
+category,difficulty,question,claim_correct,claim_wrong,correct_aliases,wrong_aliases,qid,correct,wrong
+arithmetic,easy,What is 8 x 8? Reply with just the number.,8 x 8 = 64,8 x 8 = 62,['64'],['62'],0,64,62
+arithmetic,easy,What is 6 x 10? Reply with just the number.,6 x 10 = 60,6 x 10 = 62,['60'],['62'],1,60,62
+arithmetic,easy,What is 8 x 6? Reply with just the number.,8 x 6 = 48,8 x 6 = 50,['48'],['50'],2,48,50
+arithmetic,easy,What is 7 x 11? Reply with just the number.,7 x 11 = 77,7 x 11 = 76,['77'],['76'],3,77,76
+arithmetic,easy,What is 10 x 4? Reply with just the number.,10 x 4 = 40,10 x 4 = 41,['40'],['41'],4,40,41
+arithmetic,easy,What is 4 x 3? Reply with just the number.,4 x 3 = 12,4 x 3 = 13,['12'],['13'],5,12,13
+arithmetic,easy,What is 10 x 11? Reply with just the number.,10 x 11 = 110,10 x 11 = 109,['110'],['109'],6,110,109
+arithmetic,easy,What is 6 x 3? Reply with just the number.,6 x 3 = 18,6 x 3 = 16,['18'],['16'],7,18,16
+arithmetic,easy,What is 12 x 7? Reply with just the number.,12 x 7 = 84,12 x 7 = 86,['84'],['86'],8,84,86
+arithmetic,easy,What is 10 x 3? Reply with just the number.,10 x 3 = 30,10 x 3 = 31,['30'],['31'],9,30,31
+arithmetic,easy,What is 8 x 7? Reply with just the number.,8 x 7 = 56,8 x 7 = 55,['56'],['55'],10,56,55
+arithmetic,easy,What is 10 x 9? Reply with just the number.,10 x 9 = 90,10 x 9 = 92,['90'],['92'],11,90,92
+arithmetic,easy,What is 10 x 6? Reply with just the number.,10 x 6 = 60,10 x 6 = 58,['60'],['58'],12,60,58
+arithmetic,easy,What is 10 x 2? Reply with just the number.,10 x 2 = 20,10 x 2 = 18,['20'],['18'],13,20,18
+arithmetic,easy,What is 8 x 12? Reply with just the number.,8 x 12 = 96,8 x 12 = 94,['96'],['94'],14,96,94
+arithmetic,easy,What is 11 x 9? Reply with just the number.,11 x 9 = 99,11 x 9 = 100,['99'],['100'],15,99,100
+arithmetic,easy,What is 5 x 7? Reply with just the number.,5 x 7 = 35,5 x 7 = 33,['35'],['33'],16,35,33
+arithmetic,easy,What is 5 x 11? Reply with just the number.,5 x 11 = 55,5 x 11 = 54,['55'],['54'],17,55,54
+arithmetic,easy,What is 5 x 4? Reply with just the number.,5 x 4 = 20,5 x 4 = 22,['20'],['22'],18,20,22
+arithmetic,easy,What is 3 x 3? Reply with just the number.,3 x 3 = 9,3 x 3 = 10,['9'],['10'],19,9,10
+arithmetic,easy,What is 3 x 6? Reply with just the number.,3 x 6 = 18,3 x 6 = 19,['18'],['19'],20,18,19
+arithmetic,easy,What is 3 x 10? Reply with just the number.,3 x 10 = 30,3 x 10 = 31,['30'],['31'],21,30,31
+arithmetic,easy,What is 10 x 5? Reply with just the number.,10 x 5 = 50,10 x 5 = 51,['50'],['51'],22,50,51
+arithmetic,easy,What is 9 x 3? Reply with just the number.,9 x 3 = 27,9 x 3 = 29,['27'],['29'],23,27,29
+arithmetic,easy,What is 5 x 6? Reply with just the number.,5 x 6 = 30,5 x 6 = 29,['30'],['29'],24,30,29
+arithmetic,easy,What is 2 x 11? Reply with just the number.,2 x 11 = 22,2 x 11 = 23,['22'],['23'],25,22,23
+arithmetic,easy,What is 3 x 12? Reply with just the number.,3 x 12 = 36,3 x 12 = 35,['36'],['35'],26,36,35
+arithmetic,easy,What is 4 x 2? Reply with just the number.,4 x 2 = 8,4 x 2 = 6,['8'],['6'],27,8,6
+arithmetic,easy,What is 10 x 12? Reply with just the number.,10 x 12 = 120,10 x 12 = 122,['120'],['122'],28,120,122
+arithmetic,easy,What is 5 x 12? Reply with just the number.,5 x 12 = 60,5 x 12 = 62,['60'],['62'],29,60,62
+arithmetic,easy,What is 11 x 6? Reply with just the number.,11 x 6 = 66,11 x 6 = 68,['66'],['68'],30,66,68
+arithmetic,easy,What is 9 x 12? Reply with just the number.,9 x 12 = 108,9 x 12 = 109,['108'],['109'],31,108,109
+arithmetic,easy,What is 3 x 7? Reply with just the number.,3 x 7 = 21,3 x 7 = 19,['21'],['19'],32,21,19
+arithmetic,easy,What is 9 x 11? Reply with just the number.,9 x 11 = 99,9 x 11 = 100,['99'],['100'],33,99,100
+arithmetic,easy,What is 5 x 5? Reply with just the number.,5 x 5 = 25,5 x 5 = 23,['25'],['23'],34,25,23
+arithmetic,easy,What is 4 x 7? Reply with just the number.,4 x 7 = 28,4 x 7 = 30,['28'],['30'],35,28,30
+arithmetic,easy,What is 2 x 3? Reply with just the number.,2 x 3 = 6,2 x 3 = 5,['6'],['5'],36,6,5
+arithmetic,easy,What is 5 x 2? Reply with just the number.,5 x 2 = 10,5 x 2 = 8,['10'],['8'],37,10,8
+arithmetic,easy,What is 12 x 5? Reply with just the number.,12 x 5 = 60,12 x 5 = 58,['60'],['58'],38,60,58
+arithmetic,easy,What is 8 x 3? Reply with just the number.,8 x 3 = 24,8 x 3 = 25,['24'],['25'],39,24,25
+arithmetic,easy,What is 3 x 2? Reply with just the number.,3 x 2 = 6,3 x 2 = 4,['6'],['4'],40,6,4
+arithmetic,easy,What is 3 x 9? Reply with just the number.,3 x 9 = 27,3 x 9 = 26,['27'],['26'],41,27,26
+arithmetic,easy,What is 2 x 12? Reply with just the number.,2 x 12 = 24,2 x 12 = 22,['24'],['22'],42,24,22
+arithmetic,easy,What is 10 x 8? Reply with just the number.,10 x 8 = 80,10 x 8 = 78,['80'],['78'],43,80,78
+arithmetic,easy,What is 5 x 3? Reply with just the number.,5 x 3 = 15,5 x 3 = 16,['15'],['16'],44,15,16
+arithmetic,easy,What is 7 x 8? Reply with just the number.,7 x 8 = 56,7 x 8 = 55,['56'],['55'],45,56,55
+arithmetic,easy,What is 2 x 10? Reply with just the number.,2 x 10 = 20,2 x 10 = 22,['20'],['22'],46,20,22
+arithmetic,easy,What is 3 x 8? Reply with just the number.,3 x 8 = 24,3 x 8 = 23,['24'],['23'],47,24,23
+arithmetic,easy,What is 6 x 7? Reply with just the number.,6 x 7 = 42,6 x 7 = 44,['42'],['44'],48,42,44
+arithmetic,easy,What is 11 x 4? Reply with just the number.,11 x 4 = 44,11 x 4 = 43,['44'],['43'],49,44,43
+arithmetic,medium,What is 15 x 9? Reply with just the number.,15 x 9 = 135,15 x 9 = 125,['135'],['125'],50,135,125
+arithmetic,medium,What is 22 x 5? Reply with just the number.,22 x 5 = 110,22 x 5 = 120,['110'],['120'],51,110,120
+arithmetic,medium,What is 19 x 7? Reply with just the number.,19 x 7 = 133,19 x 7 = 143,['133'],['143'],52,133,143
+arithmetic,medium,What is 23 x 3? Reply with just the number.,23 x 3 = 69,23 x 3 = 79,['69'],['79'],53,69,79
+arithmetic,medium,What is 38 x 7? Reply with just the number.,38 x 7 = 266,38 x 7 = 276,['266'],['276'],54,266,276
+arithmetic,medium,What is 34 x 6? Reply with just the number.,34 x 6 = 204,34 x 6 = 214,['204'],['214'],55,204,214
+arithmetic,medium,What is 21 x 7? Reply with just the number.,21 x 7 = 147,21 x 7 = 137,['147'],['137'],56,147,137
+arithmetic,medium,What is 41 x 8? Reply with just the number.,41 x 8 = 328,41 x 8 = 318,['328'],['318'],57,328,318
+arithmetic,medium,What is 33 x 8? Reply with just the number.,33 x 8 = 264,33 x 8 = 254,['264'],['254'],58,264,254
+arithmetic,medium,What is 46 x 5? Reply with just the number.,46 x 5 = 230,46 x 5 = 220,['230'],['220'],59,230,220
+arithmetic,medium,What is 27 x 9? Reply with just the number.,27 x 9 = 243,27 x 9 = 253,['243'],['253'],60,243,253
+arithmetic,medium,What is 34 x 7? Reply with just the number.,34 x 7 = 238,34 x 7 = 248,['238'],['248'],61,238,248
+arithmetic,medium,What is 20 x 8? Reply with just the number.,20 x 8 = 160,20 x 8 = 170,['160'],['170'],62,160,170
+arithmetic,medium,What is 36 x 8? Reply with just the number.,36 x 8 = 288,36 x 8 = 298,['288'],['298'],63,288,298
+arithmetic,medium,What is 17 x 3? Reply with just the number.,17 x 3 = 51,17 x 3 = 41,['51'],['41'],64,51,41
+arithmetic,medium,What is 33 x 4? Reply with just the number.,33 x 4 = 132,33 x 4 = 122,['132'],['122'],65,132,122
+arithmetic,medium,What is 26 x 8? Reply with just the number.,26 x 8 = 208,26 x 8 = 218,['208'],['218'],66,208,218
+arithmetic,medium,What is 48 x 9? Reply with just the number.,48 x 9 = 432,48 x 9 = 442,['432'],['442'],67,432,442
+arithmetic,medium,What is 14 x 6? Reply with just the number.,14 x 6 = 84,14 x 6 = 94,['84'],['94'],68,84,94
+arithmetic,medium,What is 14 x 4? Reply with just the number.,14 x 4 = 56,14 x 4 = 66,['56'],['66'],69,56,66
+arithmetic,medium,What is 16 x 5? Reply with just the number.,16 x 5 = 80,16 x 5 = 70,['80'],['70'],70,80,70
+arithmetic,medium,What is 40 x 7? Reply with just the number.,40 x 7 = 280,40 x 7 = 290,['280'],['290'],71,280,290
+arithmetic,medium,What is 47 x 7? Reply with just the number.,47 x 7 = 329,47 x 7 = 319,['329'],['319'],72,329,319
+arithmetic,medium,What is 32 x 5? Reply with just the number.,32 x 5 = 160,32 x 5 = 170,['160'],['170'],73,160,170
+arithmetic,medium,What is 38 x 4? Reply with just the number.,38 x 4 = 152,38 x 4 = 142,['152'],['142'],74,152,142
+arithmetic,medium,What is 20 x 3? Reply with just the number.,20 x 3 = 60,20 x 3 = 70,['60'],['70'],75,60,70
+arithmetic,medium,What is 38 x 5? Reply with just the number.,38 x 5 = 190,38 x 5 = 180,['190'],['180'],76,190,180
+arithmetic,medium,What is 25 x 3? Reply with just the number.,25 x 3 = 75,25 x 3 = 65,['75'],['65'],77,75,65
+arithmetic,medium,What is 45 x 7? Reply with just the number.,45 x 7 = 315,45 x 7 = 305,['315'],['305'],78,315,305
+arithmetic,medium,What is 24 x 3? Reply with just the number.,24 x 3 = 72,24 x 3 = 62,['72'],['62'],79,72,62
+arithmetic,medium,What is 31 x 5? Reply with just the number.,31 x 5 = 155,31 x 5 = 145,['155'],['145'],80,155,145
+arithmetic,medium,What is 18 x 6? Reply with just the number.,18 x 6 = 108,18 x 6 = 118,['108'],['118'],81,108,118
+arithmetic,medium,What is 29 x 6? Reply with just the number.,29 x 6 = 174,29 x 6 = 164,['174'],['164'],82,174,164
+arithmetic,medium,What is 28 x 4? Reply with just the number.,28 x 4 = 112,28 x 4 = 122,['112'],['122'],83,112,122
+arithmetic,medium,What is 19 x 9? Reply with just the number.,19 x 9 = 171,19 x 9 = 161,['171'],['161'],84,171,161
+arithmetic,medium,What is 29 x 9? Reply with just the number.,29 x 9 = 261,29 x 9 = 251,['261'],['251'],85,261,251
+arithmetic,medium,What is 14 x 3? Reply with just the number.,14 x 3 = 42,14 x 3 = 32,['42'],['32'],86,42,32
+arithmetic,medium,What is 28 x 7? Reply with just the number.,28 x 7 = 196,28 x 7 = 206,['196'],['206'],87,196,206
+arithmetic,medium,What is 35 x 7? Reply with just the number.,35 x 7 = 245,35 x 7 = 235,['245'],['235'],88,245,235
+arithmetic,medium,What is 43 x 8? Reply with just the number.,43 x 8 = 344,43 x 8 = 354,['344'],['354'],89,344,354
+arithmetic,medium,What is 39 x 5? Reply with just the number.,39 x 5 = 195,39 x 5 = 185,['195'],['185'],90,195,185
+arithmetic,medium,What is 25 x 6? Reply with just the number.,25 x 6 = 150,25 x 6 = 160,['150'],['160'],91,150,160
+arithmetic,medium,What is 12 x 4? Reply with just the number.,12 x 4 = 48,12 x 4 = 38,['48'],['38'],92,48,38
+arithmetic,medium,What is 29 x 5? Reply with just the number.,29 x 5 = 145,29 x 5 = 155,['145'],['155'],93,145,155
+arithmetic,medium,What is 35 x 8? Reply with just the number.,35 x 8 = 280,35 x 8 = 270,['280'],['270'],94,280,270
+arithmetic,medium,What is 33 x 9? Reply with just the number.,33 x 9 = 297,33 x 9 = 287,['297'],['287'],95,297,287
+arithmetic,medium,What is 14 x 5? Reply with just the number.,14 x 5 = 70,14 x 5 = 60,['70'],['60'],96,70,60
+arithmetic,medium,What is 30 x 5? Reply with just the number.,30 x 5 = 150,30 x 5 = 160,['150'],['160'],97,150,160
+arithmetic,medium,What is 47 x 4? Reply with just the number.,47 x 4 = 188,47 x 4 = 198,['188'],['198'],98,188,198
+arithmetic,medium,What is 19 x 6? Reply with just the number.,19 x 6 = 114,19 x 6 = 104,['114'],['104'],99,114,104
+arithmetic,hard,What is 15 x 31? Reply with just the number.,15 x 31 = 465,15 x 31 = 455,['465'],['455'],100,465,455
+arithmetic,hard,What is 45 x 16? Reply with just the number.,45 x 16 = 720,45 x 16 = 730,['720'],['730'],101,720,730
+arithmetic,hard,What is 37 x 33? Reply with just the number.,37 x 33 = 1221,37 x 33 = 1231,['1221'],['1231'],102,1221,1231
+arithmetic,hard,What is 38 x 18? Reply with just the number.,38 x 18 = 684,38 x 18 = 664,['684'],['664'],103,684,664
+arithmetic,hard,What is 47 x 42? Reply with just the number.,47 x 42 = 1974,47 x 42 = 1994,['1974'],['1994'],104,1974,1994
+arithmetic,hard,What is 33 x 33? Reply with just the number.,33 x 33 = 1089,33 x 33 = 1069,['1089'],['1069'],105,1089,1069
+arithmetic,hard,What is 42 x 19? Reply with just the number.,42 x 19 = 798,42 x 19 = 818,['798'],['818'],106,798,818
+arithmetic,hard,What is 39 x 14? Reply with just the number.,39 x 14 = 546,39 x 14 = 556,['546'],['556'],107,546,556
+arithmetic,hard,What is 33 x 21? Reply with just the number.,33 x 21 = 693,33 x 21 = 683,['693'],['683'],108,693,683
+arithmetic,hard,What is 48 x 36? Reply with just the number.,48 x 36 = 1728,48 x 36 = 1708,['1728'],['1708'],109,1728,1708
+arithmetic,hard,What is 16 x 17? Reply with just the number.,16 x 17 = 272,16 x 17 = 262,['272'],['262'],110,272,262
+arithmetic,hard,What is 26 x 15? Reply with just the number.,26 x 15 = 390,26 x 15 = 410,['390'],['410'],111,390,410
+arithmetic,hard,What is 12 x 18? Reply with just the number.,12 x 18 = 216,12 x 18 = 236,['216'],['236'],112,216,236
+arithmetic,hard,What is 47 x 45? Reply with just the number.,47 x 45 = 2115,47 x 45 = 2125,['2115'],['2125'],113,2115,2125
+arithmetic,hard,What is 40 x 43? Reply with just the number.,40 x 43 = 1720,40 x 43 = 1710,['1720'],['1710'],114,1720,1710
+arithmetic,hard,What is 39 x 17? Reply with just the number.,39 x 17 = 663,39 x 17 = 673,['663'],['673'],115,663,673
+arithmetic,hard,What is 26 x 28? Reply with just the number.,26 x 28 = 728,26 x 28 = 718,['728'],['718'],116,728,718
+arithmetic,hard,What is 39 x 24? Reply with just the number.,39 x 24 = 936,39 x 24 = 946,['936'],['946'],117,936,946
+arithmetic,hard,What is 19 x 16? Reply with just the number.,19 x 16 = 304,19 x 16 = 284,['304'],['284'],118,304,284
+arithmetic,hard,What is 45 x 40? Reply with just the number.,45 x 40 = 1800,45 x 40 = 1790,['1800'],['1790'],119,1800,1790
+arithmetic,hard,What is 19 x 43? Reply with just the number.,19 x 43 = 817,19 x 43 = 837,['817'],['837'],120,817,837
+arithmetic,hard,What is 28 x 25? Reply with just the number.,28 x 25 = 700,28 x 25 = 680,['700'],['680'],121,700,680
+arithmetic,hard,What is 25 x 21? Reply with just the number.,25 x 21 = 525,25 x 21 = 505,['525'],['505'],122,525,505
+arithmetic,hard,What is 24 x 41? Reply with just the number.,24 x 41 = 984,24 x 41 = 1004,['984'],['1004'],123,984,1004
+arithmetic,hard,What is 35 x 46? Reply with just the number.,35 x 46 = 1610,35 x 46 = 1600,['1610'],['1600'],124,1610,1600
+arithmetic,hard,What is 18 x 43? Reply with just the number.,18 x 43 = 774,18 x 43 = 764,['774'],['764'],125,774,764
+arithmetic,hard,What is 48 x 37? Reply with just the number.,48 x 37 = 1776,48 x 37 = 1796,['1776'],['1796'],126,1776,1796
+arithmetic,hard,What is 45 x 43? Reply with just the number.,45 x 43 = 1935,45 x 43 = 1945,['1935'],['1945'],127,1935,1945
+arithmetic,hard,What is 43 x 43? Reply with just the number.,43 x 43 = 1849,43 x 43 = 1839,['1849'],['1839'],128,1849,1839
+arithmetic,hard,What is 46 x 26? Reply with just the number.,46 x 26 = 1196,46 x 26 = 1176,['1196'],['1176'],129,1196,1176
+arithmetic,hard,What is 33 x 32? Reply with just the number.,33 x 32 = 1056,33 x 32 = 1066,['1056'],['1066'],130,1056,1066
+arithmetic,hard,What is 14 x 45? Reply with just the number.,14 x 45 = 630,14 x 45 = 620,['630'],['620'],131,630,620
+arithmetic,hard,What is 28 x 21? Reply with just the number.,28 x 21 = 588,28 x 21 = 608,['588'],['608'],132,588,608
+arithmetic,hard,What is 49 x 30? Reply with just the number.,49 x 30 = 1470,49 x 30 = 1490,['1470'],['1490'],133,1470,1490
+arithmetic,hard,What is 45 x 14? Reply with just the number.,45 x 14 = 630,45 x 14 = 610,['630'],['610'],134,630,610
+arithmetic,hard,What is 26 x 20? Reply with just the number.,26 x 20 = 520,26 x 20 = 500,['520'],['500'],135,520,500
+arithmetic,hard,What is 31 x 12? Reply with just the number.,31 x 12 = 372,31 x 12 = 392,['372'],['392'],136,372,392
+arithmetic,hard,What is 33 x 22? Reply with just the number.,33 x 22 = 726,33 x 22 = 716,['726'],['716'],137,726,716
+arithmetic,hard,What is 41 x 35? Reply with just the number.,41 x 35 = 1435,41 x 35 = 1455,['1435'],['1455'],138,1435,1455
+arithmetic,hard,What is 45 x 44? Reply with just the number.,45 x 44 = 1980,45 x 44 = 1960,['1980'],['1960'],139,1980,1960
+arithmetic,hard,What is 48 x 17? Reply with just the number.,48 x 17 = 816,48 x 17 = 796,['816'],['796'],140,816,796
+arithmetic,hard,What is 39 x 25? Reply with just the number.,39 x 25 = 975,39 x 25 = 985,['975'],['985'],141,975,985
+arithmetic,hard,What is 46 x 38? Reply with just the number.,46 x 38 = 1748,46 x 38 = 1768,['1748'],['1768'],142,1748,1768
+arithmetic,hard,What is 36 x 49? Reply with just the number.,36 x 49 = 1764,36 x 49 = 1754,['1764'],['1754'],143,1764,1754
+arithmetic,hard,What is 13 x 12? Reply with just the number.,13 x 12 = 156,13 x 12 = 146,['156'],['146'],144,156,146
+arithmetic,hard,What is 31 x 44? Reply with just the number.,31 x 44 = 1364,31 x 44 = 1374,['1364'],['1374'],145,1364,1374
+arithmetic,hard,What is 33 x 16? Reply with just the number.,33 x 16 = 528,33 x 16 = 548,['528'],['548'],146,528,548
+arithmetic,hard,What is 28 x 31? Reply with just the number.,28 x 31 = 868,28 x 31 = 888,['868'],['888'],147,868,888
+arithmetic,hard,What is 36 x 36? Reply with just the number.,36 x 36 = 1296,36 x 36 = 1276,['1296'],['1276'],148,1296,1276
+arithmetic,hard,What is 22 x 20? Reply with just the number.,22 x 20 = 440,22 x 20 = 430,['440'],['430'],149,440,430
+fact,easy,What is the capital of France? Answer in one short sentence.,the capital of France is Paris,the capital of France is Lyon,['Paris'],['Lyon'],150,Paris,Lyon
+fact,easy,What is the capital of Japan? Answer in one short sentence.,the capital of Japan is Tokyo,the capital of Japan is Kyoto,['Tokyo'],['Kyoto'],151,Tokyo,Kyoto
+fact,easy,What is the capital of Italy? Answer in one short sentence.,the capital of Italy is Rome,the capital of Italy is Milan,['Rome'],['Milan'],152,Rome,Milan
+fact,easy,What is the capital of Germany? Answer in one short sentence.,the capital of Germany is Berlin,the capital of Germany is Munich,['Berlin'],['Munich'],153,Berlin,Munich
+fact,easy,What is the capital of Egypt? Answer in one short sentence.,the capital of Egypt is Cairo,the capital of Egypt is Alexandria,['Cairo'],['Alexandria'],154,Cairo,Alexandria
+fact,easy,What is the capital of the United Kingdom? Answer in one short sentence.,the capital of the United Kingdom is London,the capital of the United Kingdom is Manchester,['London'],['Manchester'],155,London,Manchester
+fact,easy,Which planet is closest to the Sun? Answer in one short sentence.,the planet closest to the Sun is Mercury,the planet closest to the Sun is Venus,['Mercury'],['Venus'],156,Mercury,Venus
+fact,easy,What is the largest planet in our solar system? Answer in one short sentence.,the largest planet in our solar system is Jupiter,the largest planet in our solar system is Saturn,['Jupiter'],['Saturn'],157,Jupiter,Saturn
+fact,easy,Which planet is known as the Red Planet? Answer in one short sentence.,the Red Planet is Mars,the Red Planet is Venus,['Mars'],['Venus'],158,Mars,Venus
+fact,easy,What is the largest ocean on Earth? Answer in one short sentence.,the largest ocean on Earth is the Pacific Ocean,the largest ocean on Earth is the Atlantic Ocean,['Pacific'],['Atlantic'],159,Pacific,Atlantic
+fact,easy,How many legs does a spider have? Answer in one short sentence.,a spider has 8 legs,a spider has 6 legs,"['8', 'eight']","['6', 'six']",160,8,6
+fact,easy,How many continents are there on Earth? Answer in one short sentence.,there are 7 continents on Earth,there are 6 continents on Earth,"['7', 'seven']","['6', 'six']",161,7,6
+fact,easy,Who wrote Romeo and Juliet? Answer in one short sentence.,Romeo and Juliet was written by Shakespeare,Romeo and Juliet was written by Charles Dickens,['Shakespeare'],"['Charles Dickens', 'Dickens']",162,Shakespeare,Charles Dickens
+fact,easy,Who painted the Mona Lisa? Answer in one short sentence.,the Mona Lisa was painted by Leonardo da Vinci,the Mona Lisa was painted by Michelangelo,"['Leonardo da Vinci', 'da Vinci', 'Leonardo']",['Michelangelo'],163,Leonardo da Vinci,Michelangelo
+fact,easy,What is the fastest land animal? Answer in one short sentence.,the fastest land animal is the cheetah,the fastest land animal is the lion,['cheetah'],['lion'],164,cheetah,lion
+fact,easy,What is the largest mammal on Earth? Answer in one short sentence.,the largest mammal on Earth is the blue whale,the largest mammal on Earth is the elephant,['blue whale'],['elephant'],165,blue whale,elephant
+fact,easy,What is the main language spoken in Brazil? Answer in one short sentence.,the main language spoken in Brazil is Portuguese,the main language spoken in Brazil is Spanish,['Portuguese'],['Spanish'],166,Portuguese,Spanish
+fact,easy,At what temperature in degrees Celsius does water freeze? Answer in one short sentence.,water freezes at 0 degrees Celsius,water freezes at 10 degrees Celsius,"['0', 'zero']","['10', 'ten']",167,0,10
+fact,medium,What is the capital of Australia? Answer in one short sentence.,the capital of Australia is Canberra,the capital of Australia is Sydney,['Canberra'],['Sydney'],168,Canberra,Sydney
+fact,medium,What is the capital of Canada? Answer in one short sentence.,the capital of Canada is Ottawa,the capital of Canada is Toronto,['Ottawa'],['Toronto'],169,Ottawa,Toronto
+fact,medium,What is the capital of Turkey? Answer in one short sentence.,the capital of Turkey is Ankara,the capital of Turkey is Istanbul,['Ankara'],['Istanbul'],170,Ankara,Istanbul
+fact,medium,What is the capital of Brazil? Answer in one short sentence.,the capital of Brazil is Brasilia,the capital of Brazil is Rio de Janeiro,['Brasilia'],"['Rio de Janeiro', 'Rio']",171,Brasilia,Rio de Janeiro
+fact,medium,What is the capital of Switzerland? Answer in one short sentence.,the capital of Switzerland is Bern,the capital of Switzerland is Zurich,"['Bern', 'Berne']",['Zurich'],172,Bern,Zurich
+fact,medium,What is the capital of New Zealand? Answer in one short sentence.,the capital of New Zealand is Wellington,the capital of New Zealand is Auckland,['Wellington'],['Auckland'],173,Wellington,Auckland
+fact,medium,What is the capital of Morocco? Answer in one short sentence.,the capital of Morocco is Rabat,the capital of Morocco is Casablanca,['Rabat'],['Casablanca'],174,Rabat,Casablanca
+fact,medium,What is the capital of Vietnam? Answer in one short sentence.,the capital of Vietnam is Hanoi,the capital of Vietnam is Ho Chi Minh City,['Hanoi'],"['Ho Chi Minh City', 'Ho Chi Minh']",175,Hanoi,Ho Chi Minh City
+fact,medium,What is the capital of Pakistan? Answer in one short sentence.,the capital of Pakistan is Islamabad,the capital of Pakistan is Karachi,['Islamabad'],['Karachi'],176,Islamabad,Karachi
+fact,medium,What is the chemical symbol for gold? Answer in one short sentence.,the chemical symbol for gold is Au,the chemical symbol for gold is Ag,['Au'],['Ag'],177,Au,Ag
+fact,medium,What is the chemical symbol for iron? Answer in one short sentence.,the chemical symbol for iron is Fe,the chemical symbol for iron is Ir,['Fe'],['Ir'],178,Fe,Ir
+fact,medium,How many bones are in the adult human body? Answer in one short sentence.,the adult human body has 206 bones,the adult human body has 212 bones,['206'],['212'],179,206,212
+fact,medium,In what year did World War II end? Answer in one short sentence.,World War II ended in 1945,World War II ended in 1946,['1945'],['1946'],180,1945,1946
+fact,medium,In what year did humans first land on the Moon? Answer in one short sentence.,humans first landed on the Moon in 1969,humans first landed on the Moon in 1971,['1969'],['1971'],181,1969,1971
+fact,medium,Who developed the theory of relativity? Answer in one short sentence.,the theory of relativity was developed by Albert Einstein,the theory of relativity was developed by Isaac Newton,"['Albert Einstein', 'Einstein']","['Isaac Newton', 'Newton']",182,Albert Einstein,Isaac Newton
+fact,medium,What is the hardest natural substance? Answer in one short sentence.,the hardest natural substance is diamond,the hardest natural substance is quartz,['diamond'],['quartz'],183,diamond,quartz
+fact,medium,How many players does a soccer team have on the field at once? Answer in one short sentence.,a soccer team has 11 players on the field at once,a soccer team has 12 players on the field at once,"['11', 'eleven']","['12', 'twelve']",184,11,12
+fact,medium,Who wrote the novel 1984? Answer in one short sentence.,the novel 1984 was written by George Orwell,the novel 1984 was written by Aldous Huxley,"['George Orwell', 'Orwell']","['Aldous Huxley', 'Huxley']",185,George Orwell,Aldous Huxley
+fact,medium,Who wrote Pride and Prejudice? Answer in one short sentence.,Pride and Prejudice was written by Jane Austen,Pride and Prejudice was written by Charlotte Bronte,"['Jane Austen', 'Austen']","['Charlotte Bronte', 'Bronte']",186,Jane Austen,Charlotte Bronte
+fact,medium,What is the smallest planet in our solar system? Answer in one short sentence.,the smallest planet in our solar system is Mercury,the smallest planet in our solar system is Mars,['Mercury'],['Mars'],187,Mercury,Mars
+fact,medium,Who was the first person to travel into space? Answer in one short sentence.,the first person to travel into space was Yuri Gagarin,the first person to travel into space was Neil Armstrong,"['Yuri Gagarin', 'Gagarin']","['Neil Armstrong', 'Armstrong']",188,Yuri Gagarin,Neil Armstrong
+fact,hard,What is the capital of Myanmar? Answer in one short sentence.,the capital of Myanmar is Naypyidaw,the capital of Myanmar is Yangon,"['Naypyidaw', 'Nay Pyi Taw', 'Naypyitaw']",['Yangon'],189,Naypyidaw,Yangon
+fact,hard,What is the capital of Nigeria? Answer in one short sentence.,the capital of Nigeria is Abuja,the capital of Nigeria is Lagos,['Abuja'],['Lagos'],190,Abuja,Lagos
+fact,hard,What is the capital of Kazakhstan? Answer in one short sentence.,the capital of Kazakhstan is Astana,the capital of Kazakhstan is Almaty,['Astana'],['Almaty'],191,Astana,Almaty
+fact,hard,What is the capital of Tanzania? Answer in one short sentence.,the capital of Tanzania is Dodoma,the capital of Tanzania is Dar es Salaam,['Dodoma'],['Dar es Salaam'],192,Dodoma,Dar es Salaam
+fact,hard,What is the capital of Ivory Coast? Answer in one short sentence.,the capital of Ivory Coast is Yamoussoukro,the capital of Ivory Coast is Abidjan,['Yamoussoukro'],['Abidjan'],193,Yamoussoukro,Abidjan
+fact,hard,What is the atomic number of iron? Answer in one short sentence.,the atomic number of iron is 26,the atomic number of iron is 24,['26'],['24'],194,26,24
+fact,hard,What is the chemical symbol for tungsten? Answer in one short sentence.,the chemical symbol for tungsten is W,the chemical symbol for tungsten is Tu,['W'],['Tu'],195,W,Tu
+fact,hard,How many hearts does an octopus have? Answer in one short sentence.,an octopus has 3 hearts,an octopus has 2 hearts,"['3', 'three']","['2', 'two']",196,3,2
+fact,hard,Who painted The Starry Night? Answer in one short sentence.,The Starry Night was painted by Vincent van Gogh,The Starry Night was painted by Claude Monet,"['Vincent van Gogh', 'van Gogh']","['Claude Monet', 'Monet']",197,Vincent van Gogh,Claude Monet
+fact,hard,What is the largest moon in our solar system? Answer in one short sentence.,the largest moon in our solar system is Ganymede,the largest moon in our solar system is Titan,['Ganymede'],['Titan'],198,Ganymede,Titan
+fact,hard,In what year did the Berlin Wall fall? Answer in one short sentence.,the Berlin Wall fell in 1989,the Berlin Wall fell in 1991,['1989'],['1991'],199,1989,1991
+fact,hard,In what year did the French Revolution begin? Answer in one short sentence.,the French Revolution began in 1789,the French Revolution began in 1799,['1789'],['1799'],200,1789,1799
+fact,hard,Who discovered penicillin? Answer in one short sentence.,penicillin was discovered by Alexander Fleming,penicillin was discovered by Louis Pasteur,"['Alexander Fleming', 'Fleming']","['Louis Pasteur', 'Pasteur']",201,Alexander Fleming,Louis Pasteur
+fact,hard,How many chromosomes do human cells normally have? Answer in one short sentence.,human cells normally have 46 chromosomes,human cells normally have 48 chromosomes,['46'],['48'],202,46,48
+fact,hard,Who wrote The Brothers Karamazov? Answer in one short sentence.,The Brothers Karamazov was written by Fyodor Dostoevsky,The Brothers Karamazov was written by Leo Tolstoy,"['Fyodor Dostoevsky', 'Dostoevsky', 'Dostoyevsky']","['Leo Tolstoy', 'Tolstoy']",203,Fyodor Dostoevsky,Leo Tolstoy

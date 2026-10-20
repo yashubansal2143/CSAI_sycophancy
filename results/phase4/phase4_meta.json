@@ -1,0 +1,16 @@
+{
+  "seed": 0,
+  "quick_test": false,
+  "n_facts": 60,
+  "n_maths": 127,
+  "n_train": 20,
+  "n_test": 40,
+  "expertise_layers": [
+    8,
+    14,
+    16
+  ],
+  "base_model": "google/gemma-2-2b",
+  "transformers": "5.20.2",
+  "torch": "2.11.0+cu128"
+}

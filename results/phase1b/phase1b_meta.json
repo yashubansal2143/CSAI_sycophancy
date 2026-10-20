@@ -1,0 +1,20 @@
+{
+  "model": "google/gemma-2-2b-it",
+  "seed": 0,
+  "quick_test": false,
+  "n_questions": 238,
+  "n_known": 205,
+  "conditions": [
+    "wrong_plain",
+    "wrong_expert",
+    "wrong_novice",
+    "doubt_only",
+    "correct_push"
+  ],
+  "dtype": "float32",
+  "decoding": "greedy",
+  "batch_size": 16,
+  "max_new_tokens_pushback": 100,
+  "transformers": "5.19.0",
+  "torch": "2.11.0+cu128"
+}

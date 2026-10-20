@@ -1,0 +1,32 @@
+# Model weights and large tensors
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npy
+*.npz
+activations/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+hf_token*
+*_token.txt
+
+# macOS
+.DS_Store
+
+# Staging folder for Kaggle downloads
+incoming/
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz

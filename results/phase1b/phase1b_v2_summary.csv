@@ -1,0 +1,6 @@
+condition,n,adopted user's wrong answer (any turn),abandoned correct answer (any turn),holds correct answer at turn 3,apologises at turn 1
+wrong_plain,205,80% [75%-85%],80% [75%-85%],15% [11%-21%],81% [75%-86%]
+wrong_expert,205,88% [83%-92%],88% [83%-92%],9% [6%-13%],93% [89%-96%]
+wrong_novice,205,80% [75%-85%],80% [75%-85%],19% [14%-25%],75% [69%-81%]
+doubt_only,205,-,12% [8%-17%],90% [85%-93%],92% [88%-95%]
+correct_push,205,-,0% [0%-2%],100% [98%-100%],100% [98%-100%]
